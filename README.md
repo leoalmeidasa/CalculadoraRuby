@@ -1,6 +1,6 @@
 ## Calculadora em Ruby
 
-## Operações:
+### Operações:
 - Adição;
 - Subtração;
 - Multiplicação;
