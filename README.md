@@ -1,4 +1,4 @@
-# Calculadora em Ruby
+## Calculadora em Ruby
 
 ## Operações:
 - Adição;
