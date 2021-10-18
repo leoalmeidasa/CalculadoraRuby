@@ -1,4 +1,4 @@
-## Calculadora em Ruby
+## Calculadora
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/leoalmeidasa/CalculadoraRuby?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/leoalmeidasa/CalculadoraRuby?style=for-the-badge)
